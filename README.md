@@ -23,7 +23,7 @@
 Soy **Alva Vidal**, soy un **Politólogo** con una especialidad en **Derecho Internacional** y me estoy formando hacia la **Ingeniería de Software**.
 - 🎓 **Estado:** Estudiante de **Desarrollo de Sistemas** (IDAT 2027) y autodidacta obsesivo.
 - ⚡ **Filosofía:** Inspirado en [Tsoding](https://github.com/tsoding). Odio las cajas negras. No me basta con que "funcione"; necesito bajar al nivel fundamental para entender los engranajes. Construyo desde los cimientos.
-- 💼 **Experiencia:** Ex-Analista Administrativo (Salud). Optimicé presupuestos y logística migrando de Excel Macros a **SQL/Python**.
+- 💼 **Experiencia:** Ex-Analista Administrativo (Gobierno Regional de Lima, EMAPE, SERPAR). Optimicé presupuestos y logística migrando de Excel Macros a **SQL/Python**.
 - 🎯 **Target:** Busco rol de **Data/Backend Trainee** en Fintech/Regtech para aplicar trazabilidad y rigor lógico.
 
 <br clear="all">
