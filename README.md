@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&background=00000000&center=true&vCenter=true&width=800&lines=SYSTEM_USER:_ALVA_VIDAL;ROLES:_DATA_ANALYST_+_BACKEND_TRAINEE;MODE:_DEEP_LEARNING_ON" alt="Typing SVG" />
 
   <p>
-    <a href="https://www.linkedin.com/in/a-vidal/">
+    <a href="https://www.linkedin.com/in/a-vidal/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://codeberg.org/alvavidal21">
+    <a href="https://codeberg.org/alvavidal21" target="_blank">
       <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" />
     </a>
-    <a href="https://mastodon.social/@alvaro_cyberdata">
+    <a href="https://mastodon.social/@alvaro_cyberdata" target="_blank">
       <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
     </a>
   </p>
@@ -23,7 +23,7 @@
 Soy **Alva Vidal**, soy un **Politólogo** con una especialidad en **Derecho Internacional** y me estoy formando hacia la **Ingeniería de Software**.
 - 🎓 **Estado:** Estudiante de **Desarrollo de Sistemas** (IDAT 2027) y autodidacta obsesivo.
 - ⚡ **Filosofía:** Inspirado en [Tsoding](https://github.com/tsoding). Odio las cajas negras. No me basta con que "funcione"; necesito bajar al nivel fundamental para entender los engranajes. Construyo desde los cimientos.
-- 💼 **Experiencia:** Ex-Analista Administrativo (Gobierno Regional de Lima, EMAPE, SERPAR). Optimicé presupuestos y logística migrando de Excel Macros a **SQL/Python**.
+- 💼 **Experiencia:** Ex-Analista Administrativo (Gob. Regional de Lima, EMAPE, SERPAR). Optimicé presupuestos y logística en Excel + Macros. Ahora migro a **SQL/Python**.
 - 🎯 **Target:** Busco rol de **Data/Backend Trainee** en Fintech/Regtech para aplicar trazabilidad y rigor lógico.
 
 <br clear="all">
@@ -69,7 +69,7 @@ Soy **Alva Vidal**, soy un **Politólogo** con una especialidad en **Derecho Int
 <br>
 
 <div align="center">
-  <h2><code>>_ run diagnostics.exe</code></h2
+  <h2><code>>_ run diagnostics.exe</code></h2>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroVidal21&theme=radical&hide_border=true&background=00000000" />
 </div>
